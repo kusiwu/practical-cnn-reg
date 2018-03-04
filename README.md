@@ -1,3 +1,17 @@
+Please don't download the repository, only download full trained data using below link
+http://www.robots.ox.ac.uk/~vgg/share/practical-cnn-reg-2016a.tar.gz
+
+The zip contains Matconvnet and trained data.
+
+-> Unzip that package to any directory,
+-> Open matlab write these codes to Matlab console input;
+    
+  > `D:\myfiles\practical-cnn-reg-2016a' `
+  
+  > `run exercise3.m`
+   
+   
+
 Convolutional neural network practical (2)
 ==========================================
 
